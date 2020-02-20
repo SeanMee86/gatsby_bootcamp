@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8606df25-0c6b-4a89-a1c3-ef9508c78a19" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/gatsby-browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/global.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/blog.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/contact.js" afterDir="false" />
@@ -58,7 +60,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582156916288</updated>
-      <workItem from="1582156918367" duration="2469000" />
+      <workItem from="1582156918367" duration="2557000" />
+      <workItem from="1582215510538" duration="11000" />
+      <workItem from="1582221776578" duration="1744000" />
     </task>
     <servers />
   </component>
@@ -70,7 +74,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

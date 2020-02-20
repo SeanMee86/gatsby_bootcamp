@@ -1,0 +1,15 @@
+html body {
+    margin: 20px;
+}
+
+header nav .header-nav {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+}
+
+header nav .header-nav li {
+    padding: 0 10px;
+}
