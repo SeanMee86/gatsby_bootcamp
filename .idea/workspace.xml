@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8606df25-0c6b-4a89-a1c3-ef9508c78a19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/styles/layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/footer.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layout.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-browser.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/global.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +61,7 @@
       <updated>1582156916288</updated>
       <workItem from="1582156918367" duration="2557000" />
       <workItem from="1582215510538" duration="11000" />
-      <workItem from="1582221776578" duration="4004000" />
+      <workItem from="1582221776578" duration="6254000" />
     </task>
     <servers />
   </component>
