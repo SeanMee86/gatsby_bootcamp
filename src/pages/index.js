@@ -1,5 +1,6 @@
 import React from "react"
-import {Link} from "gatsby";
+import {Link} from "gatsby"
+import Footer from '../components/footer'
 
 const IndexPage =  () => {
     const blogPage = '/blog';
@@ -15,6 +16,7 @@ const IndexPage =  () => {
                 <li><Link to={aboutPage}>About</Link></li>
                 <li><Link to={contactPage}>Contact</Link></li>
             </ul>
+            <Footer/>
         </div>
     )
 };
