@@ -1,10 +1,10 @@
 import React from "react";
 
-const Footer = () => {
+const Footer = (props) => {
     const date = new Date();
     return (
         <footer>
-           <p>Created by Sean Mee, &copy; {date.getFullYear()}</p>
+           <p>Created by {props.siteAuthor}, &copy; {date.getFullYear()}</p>
         </footer>
     )
 };

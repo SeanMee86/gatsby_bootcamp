@@ -1,15 +1,13 @@
 import React from "react";
 import {Link} from "gatsby";
-
-// import './header.module.scss';
 import headerStyles from './header.module.scss'
 
-const Header = () => {
+const Header = (props) => {
     return (
         <header className={headerStyles.header}>
             <h1>
                 <Link to={'/'} className={headerStyles.title}>
-                    My Site
+                    {props.siteTitle}
                 </Link>
             </h1>
             <nav>
