@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8606df25-0c6b-4a89-a1c3-ef9508c78a19" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/pages/blog.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/blog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/blog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/posts/gatsby.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/gatsby/gatsby.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +40,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\seanm\Documents\code\gatsby-bootcamp\src\posts\gatsby" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -59,7 +71,7 @@
       <workItem from="1582215510538" duration="11000" />
       <workItem from="1582221776578" duration="6931000" />
       <workItem from="1582230994856" duration="2682000" />
-      <workItem from="1582306938691" duration="10477000" />
+      <workItem from="1582306938691" duration="14015000" />
     </task>
     <servers />
   </component>
