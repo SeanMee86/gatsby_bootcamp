@@ -2,7 +2,7 @@ import React from "react";
 import Header from "./header";
 import Footer from "./footer";
 import {graphql, useStaticQuery} from "gatsby";
-import styles from "../styles/index.scss"
+import "../styles/index.scss"
 import layoutStyles from "./layout.module.scss"
 
 const Layout = (props) => {
