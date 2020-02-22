@@ -12,6 +12,11 @@ export const query = graphql`
             body {
                 json
             }
+            bottomImage {
+                file {
+                    url
+                }
+            }
         }
     }
 `;
@@ -26,11 +31,13 @@ const Blog = (props) => {
             }
         }
     };
+    const imgUrl = props.data.contentfulBlogPost.bottomImage;
     return (
         <Layout>
             <h1>{props.data.contentfulBlogPost.title}</h1>
             <p>{props.data.contentfulBlogPost.publishedDate}</p>
             {documentToReactComponents(props.data.contentfulBlogPost.body.json, options)}
+            { imgUrl ? <img src={imgUrl.file.url} alt={imgUrl.title} /> : null}
         </Layout>
     )
 };

@@ -4,6 +4,11 @@ import Footer from "./footer";
 import {graphql, useStaticQuery} from "gatsby";
 import "../styles/index.scss"
 import layoutStyles from "./layout.module.scss"
+import { setConfig } from 'react-hot-loader'
+
+setConfig({
+    showReactDomPatchNotification: false
+});
 
 const Layout = (props) => {
 
